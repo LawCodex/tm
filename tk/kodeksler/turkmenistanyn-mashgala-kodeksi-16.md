@@ -954,7 +954,7 @@ Nika bozulanda äriniň (aýalynyň) özüniň nika baglaşmagyndan öňki famil
 
 Nikanyň bozulmagyny döwlet tarapyndan bellige almagy geçiren RÝNÝ edarasy bu hakda nikanyň baglaşylmagyny döwlet tarapyndan bellige almagy geçiren RÝNÝ edarasyna habar bermäge borçludyr.
 
-**6 -njy bap. Nikanyň hakyky däldigi**
+### 6 -njy bap. Nikanyň hakyky däldigi
 
 #### 32-nji madda. Nikany hakyky däl diýip ykrar etmegiň esaslary
 

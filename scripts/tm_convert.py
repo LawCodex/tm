@@ -15,10 +15,10 @@ TYPES = {'codes': 'code', 'laws': 'act', 'constitutional-law': 'constitutional_l
 KINDS = ['part', 'section', 'chapter', 'paragraph', 'article']
 PAT = {
     'part': re.compile(r'^((umumy|aýratyn|ýörite)\s+bölüm|(общая|особенная)\s+часть|часть\s+[IVXLC\d]+\b)', re.I),
-    'section': re.compile(r'^([IVXLC\d]+[-‑]?\w{0,5}\s+bölüm\b|bölüm\s+[IVXLC\d]+|[a-zýüöäňçşž]+\s+bölüm$|раздел\b)', re.I),
-    'chapter': re.compile(r'^([IVXLC\d]+[-‑]?\w{0,5}\s+bap\b|bap\s+[IVXLC\d]+|глава\b)', re.I),
+    'section': re.compile(r'^([IVXLC\d]+\.?\s*[-‑]?\w{0,5}\s+bölüm\b|bölüm\s+[IVXLC\d]+|[a-zýüöäňçşž]+\s+bölüm$|раздел\b)', re.I),
+    'chapter': re.compile(r'^([IVXLC\d]+\.?\s*[-‑]?\w{0,5}\s+bap\b|bap\s+[IVXLC\d]+|глава\b)', re.I),
     'paragraph': re.compile(r'^(§\s*\d|\d+[-‑]?\w{0,5}\s+paragraf\b|параграф\b)', re.I),
-    'article': re.compile(r'^(\d+(\.\d+)?[-‑]?\w{0,5}\s+madda\b|madda\s+\d|статья\s+\d)', re.I),
+    'article': re.compile(r'^(\d+(\.\d+)?\s*[-‑]?\s*\w{0,5}\s+madda\b|madda\s+\d|статья\s+\d)', re.I),
 }
 
 

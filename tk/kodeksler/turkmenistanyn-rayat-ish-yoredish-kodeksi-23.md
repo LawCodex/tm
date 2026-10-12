@@ -2562,7 +2562,9 @@ Wekil wekilçilik edilýäniň adyndan ähli iş ýörediş hereketlerini amala 
 
 5\. Kanuny wekiller kazyýetde işiň alnyp barylmagyny wekil hökmünde özleri tarapyndan saýlanan başga adama tabşyryp bilerler.
 
-## III BÖLÜM. BIRINJI BASGANÇAKLY KAZYÝETDE ÖNÜMÇILIK I KIÇI BÖLÜM. BUÝRUK ÖNÜMÇILIGI
+## III BÖLÜM. BIRINJI BASGANÇAKLY KAZYÝETDE ÖNÜMÇILIK
+
+## I KIÇI BÖLÜM. BUÝRUK ÖNÜMÇILIGI
 
 ### 12-nji bap. BUÝRUK ÖNÜMÇILIGI
 
@@ -2724,7 +2726,7 @@ Gozgalýan emläk talap edilen mahalynda arzada bu emlägiň gymmaty görkezilme
 
 4\. Algydara berlen kazyýet buýrugy hakyndaky kesgitnamanyň nusgasy kazyýetiň önümçiliginde galýar.
 
-**II KIÇI BÖLÜM. HAK ISLEÝIŞ ÖNÜMÇILIGI**
+## II KIÇI BÖLÜM. HAK ISLEÝIŞ ÖNÜMÇILIGI
 
 ### 13-nji bap. HAK ISLEGINI BILDIRMEK
 
@@ -3924,9 +3926,7 @@ Işe gatnaşýan adamlar we olaryň wekilleri teswirnama bilen tanyşmaga haklyd
 
 4\. Haçan-da iş boýunça başlyklyk ediji haýsydyr bir obýektiw sebäpler boýunça teswirnama berlen belliklere seredip bilmese, olar işiň materiallaryna goşulýar.
 
-**III KIÇI BÖLÜM. ADMINISTRATIW-HUKUK GATNAŞYKLARYNDAN GELIP ÇYKÝAN IŞLER**
-
-**BOÝUNÇA ÖNÜMÇILIK**
+## III KIÇI BÖLÜM. ADMINISTRATIW-HUKUK GATNAŞYKLARYNDAN GELIP ÇYKÝAN IŞLER BOÝUNÇA ÖNÜMÇILIK
 
 ### 24-nji bap. UMUMY DÜZGÜNLER
 
@@ -4056,9 +4056,7 @@ Raýat ýagdaýynyň namalaryny döwlet tarapyndan bellige almakdan ýüz dönde
 
 3\. Eger kazyýet şikaýat edilýän hereketleriň kanuna laýyklykda amala aşyrylandygyny anyklasa, ol şikaýaty kanagatlandyrmakdan ýüz döndermek hakynda çözgüt çykarýar.
 
-**IV KIÇI BÖLÜM. AÝRATYN ÖNÜMÇILIK**
-
-**I. MAŞGALA IŞLERI BOÝUNÇA ÖNÜMÇILIK**
+## IV KIÇI BÖLÜM. AÝRATYN ÖNÜMÇILIK I. MAŞGALA IŞLERI BOÝUNÇA ÖNÜMÇILIK
 
 ### 29-njy bap. MAŞGALA IŞLERI BOÝUNÇA ÖNÜMÇILIK
 
